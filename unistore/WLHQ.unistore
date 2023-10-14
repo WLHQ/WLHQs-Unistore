@@ -17,7 +17,7 @@
             "info": {
                 "title": "Universal-Updater",
                 "author": "Universal-Team",
-                "description": "An easy to use app for installing and updating 3DS homebrew",
+                "description": "An easy-to-use app for installing and updating 3DS homebrew",
                 "category": ["utility"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -41,7 +41,8 @@
                 },
                 {
                     "type": "installCia",
-                    "file": "/Universal-Updater.cia"
+                    "file": "sdmc:/Universal-Updater.cia",
+                    "message": "Do you want to install Universal-Updater?"
                 },
                 {
                     "type": "deleteFile",
@@ -64,34 +65,43 @@
                 },
                 {
                     "type": "installCia",
-                    "file": "/Universal-Updater.cia"
+                    "file": "sdmc:/Universal-Updater.cia",
+                    "message": "Do you want to install Universal-Updater?"
                 },
                 {
                     "type": "deleteFile",
                     "file": "sdmc:/Universal-Updater.cia"
                 }
-            ],
-            // Add your new slot here using the template
+            },
             {
                 "info": {
-                    "title": "New Slot Title",
-                    "author": "New Slot Author",
-                    "description": "New Slot Description",
-                    "category": ["New Category"],
-                    "console": ["New Console"],
-                    "icon_index": 1, // Index of the icon in the sheet
-                    "sheet_index": 1, // Index of the sheet
-                    "last_updated": "YYYY-MM-DD at HH:MM (UTC)",
-                    "license": "New License",
-                    "version": "New Slot Version"
+                    "title": "SpongeBob 4-D Ride",
+                    "author": "Nickelodeon",
+                    "description": "Experience the SpongeBob 4-D Ride on your 3DS",
+                    "category": ["Games"],
+                    "console": ["3DS"],
+                    "icon_index": 0,
+                    "sheet_index": 0,
+                    "last_updated": "2023-10-14 at 23:26 (UTC)",
+                    "license": "None",
+                    "version": "v1.0.0"
                 },
-                "NewSlotFileName.extension": [
+                "Spongebob 4-D Ride [000400000C45E200].cia": [
                     {
                         "type": "downloadFile",
-                        "file": "New Slot Download URL",
-                        "output": "New Slot Output Path"
+                        "file": "https://drive.google.com/file/d/1mmIcCjryliqvUTInWDYw8G6giNntDrG5/view?usp=drive_link",
+                        "output": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
+                    },
+                    {
+                        "type": "installCia",
+                        "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia",
+                        "message": "Do you want to install SpongeBob 4-D Ride?"
+                    },
+                    {
+                        "type": "deleteFile",
+                        "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
                     }
-                ]
+                }
             }
         ]
     }
