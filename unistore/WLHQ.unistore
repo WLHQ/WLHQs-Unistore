@@ -1,12 +1,12 @@
 {
     "storeInfo": {
-        "title": "WLHQ's Store",
-        "author": "WLHQ",
-        "description": "WLHQ's Test Store for Nintendo 3DS.",
-        "url": "https://raw.githubusercontent.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.unistore",
-        "file": "WLHQ.unistore",
-        "sheetURL": "https://raw.githubusercontent.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.t3x",
-        "sheet": "WLHQ.t3x",
+        "title": "Universal-DB",
+        "author": "Universal-Team",
+        "description": "Universal-DB - An online database of 3DS and DS homebrew",
+        "url": "https://db.universal-team.net/unistore/universal-db-beta.unistore",
+        "file": "universal-db-beta.unistore",
+        "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
+        "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
         "revision": 91,
@@ -17,7 +17,7 @@
             "info": {
                 "title": "Universal-Updater",
                 "author": "Universal-Team",
-                "description": "An easy-to-use app for installing and updating 3DS homebrew",
+                "description": "An easy to use app for installing and updating 3DS homebrew",
                 "category": ["utility"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -41,8 +41,7 @@
                 },
                 {
                     "type": "installCia",
-                    "file": "sdmc:/Universal-Updater.cia",
-                    "message": "Do you want to install Universal-Updater?"
+                    "file": "/Universal-Updater.cia"
                 },
                 {
                     "type": "deleteFile",
@@ -65,44 +64,42 @@
                 },
                 {
                     "type": "installCia",
-                    "file": "sdmc:/Universal-Updater.cia",
-                    "message": "Do you want to install Universal-Updater?"
+                    "file": "/Universal-Updater.cia"
                 },
                 {
                     "type": "deleteFile",
                     "file": "sdmc:/Universal-Updater.cia"
                 }
+            ]
+        },
+        {
+            "info": {
+                "title": "Spongebob 4-D",
+                "author": "Nickaloadeon",
+                "description": "An easy to use app for installing and updating 3DS homebrew",
+                "category": ["Homebrew"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2020-07-02 at 14:03 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
             },
-            {
-                "info": {
-                    "title": "SpongeBob 4-D Ride",
-                    "author": "Nickelodeon",
-                    "description": "Experience the SpongeBob 4-D Ride on your 3DS",
-                    "category": ["Games"],
-                    "console": ["3DS"],
-                    "icon_index": 0,
-                    "sheet_index": 0,
-                    "last_updated": "2023-10-14 at 23:26 (UTC)",
-                    "license": "None",
-                    "version": "v1.0.0"
+            "Spongebob 4-D Ride [000400000C45E200].cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://drive.google.com/file/d/1mmIcCjryliqvUTInWDYw8G6giNntDrG5/view?usp=drive_link",
+                    "output": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
                 },
-                "Spongebob 4-D Ride [000400000C45E200].cia": [
-                    {
-                        "type": "downloadFile",
-                        "file": "https://drive.google.com/file/d/1mmIcCjryliqvUTInWDYw8G6giNntDrG5/view?usp=drive_link",
-                        "output": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
-                    },
-                    {
-                        "type": "installCia",
-                        "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia",
-                        "message": "Do you want to install SpongeBob 4-D Ride?"
-                    },
-                    {
-                        "type": "deleteFile",
-                        "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
-                    }
+                {
+                    "type": "installCia",
+                    "file": "/Spongebob 4-D Ride [000400000C45E200].cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
                 }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }
