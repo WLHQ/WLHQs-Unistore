@@ -70,7 +70,29 @@
                     "type": "deleteFile",
                     "file": "sdmc:/Universal-Updater.cia"
                 }
-            ]
-        }
-    ]
+            ],
+            // Add your new slot here using the template
+            {
+                "info": {
+                    "title": "New Slot Title",
+                    "author": "New Slot Author",
+                    "description": "New Slot Description",
+                    "category": ["New Category"],
+                    "console": ["New Console"],
+                    "icon_index": 1, // Index of the icon in the sheet
+                    "sheet_index": 1, // Index of the sheet
+                    "last_updated": "YYYY-MM-DD at HH:MM (UTC)",
+                    "license": "New License",
+                    "version": "New Slot Version"
+                },
+                "NewSlotFileName.extension": [
+                    {
+                        "type": "downloadFile",
+                        "file": "New Slot Download URL",
+                        "output": "New Slot Output Path"
+                    }
+                ]
+            }
+        ]
+    }
 }
