@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 119,
+        "revision": 120,
         "version": 3
     },
     "storeContent": [
@@ -75,13 +75,13 @@
         {
            "info": {
                 "title": "Astro Boy",
-                "author": "Test",
-                "description": "Test",
+                "author": "Imagi Animation Studios",
+                "description": "When an android replica of a boy is rejected by his aggrieved creator, he goes off to find his own identity in an adventure that would make him the greatest hero of his time.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:00 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -104,13 +104,13 @@
         {
            "info": {
                 "title": "Bee Movie",
-                "author": "Test",
-                "description": "Test",
+                "author": "DreamWorks Animation & Columbus 81 Productions",
+                "description": "Fresh out of college, Barry the Bee finds the prospect of working with honey uninspiring. He flies outside the hive for the first time and talks to a human, breaking a cardinal rule of his species.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:01 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -133,13 +133,13 @@
         {
            "info": {
                 "title": "Cars",
-                "author": "Test",
-                "description": "Test",
+                "author": "Walt Disney Pictures & Pixar Animation Studios",
+                "description": "In a world where the towns are peopled with cars, and even the bugs are mini motors, a young ambitious racing car called Lightning McQueen is a star.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:02 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -162,13 +162,13 @@
         {
            "info": {
                 "title": "Kung Fu Panda",
-                "author": "Test",
-                "description": "Test",
+                "author": "DreamWorks Animation",
+                "description": "Kung Fu Panda is a 2008 American animated martial arts comedy film produced by DreamWorks Animation and distributed by Paramount Pictures.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:03 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -191,13 +191,13 @@
         {
            "info": {
                 "title": "Kung Fu Panda 2",
-                "author": "Test",
-                "description": "Test",
+                "author": "DreamWorks Animation",
+                "description": "Now known as the Dragon Warrior, Po (Chawalit Simankhongtham) protects the Valley of Peace alongside his friends and fellow kung fu masters, the Furious Five.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:04 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -220,13 +220,13 @@
         {
            "info": {
                 "title": "Paws of Fury - The Legend of Hank",
-                "author": "Test",
-                "description": "Test",
+                "author": "Flying Tigers Entertainment, Align, GFM Animation, HB Wink Animation, Aniventure, & Cinesite",
+                "description": "A down-on-his-luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wipe their village off the map.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:05 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -249,13 +249,13 @@
         {
            "info": {
                 "title": "Puss In Boots The Last Wish",
-                "author": "Test",
-                "description": "Test",
+                "author": "DreamWorks Animation",
+                "description": "Puss in Boots discovers that his passion for adventure has taken its toll when he learns that he has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:06 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -278,13 +278,13 @@
         {
            "info": {
                 "title": "Sonic Frontiers Prologue Divergence",
-                "author": "Test",
-                "description": "Test",
+                "author": "Sega",
+                "description": "Knuckles knows every corner of his island and every secret it holds...or so he thought.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:07 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -307,13 +307,13 @@
         {
            "info": {
                 "title": "Sonic Prime Season 1",
-                "author": "Test",
-                "description": "Test",
+                "author": "Sega",
+                "description": "The fate of a strange new multiverse rests in the gloved hands of the speedy, blue Sonic the Hedgehog.",
                 "category": ["TV Shows"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:08 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -336,13 +336,13 @@
         {
            "info": {
                 "title": "Sonic Prime Season Two",
-                "author": "Test",
-                "description": "Test",
+                "author": "Sega",
+                "description": "The fate of a strange new multiverse rests in the gloved hands of the speedy, blue Sonic the Hedgehog.",
                 "category": ["TV Shows"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:09 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -365,13 +365,13 @@
         {
            "info": {
                 "title": "Spider-Man",
-                "author": "Test",
-                "description": "Test",
+                "author": "Columbia Pictures[1], Marvel Enterprises[2], Laura Ziskin Productions",
+                "description": "Spider-Man centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:10 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -394,13 +394,13 @@
         {
            "info": {
                 "title": "Spider-Man 2",
-                "author": "Test",
-                "description": "Test",
+                "author": "Columbia Pictures[1], Marvel Enterprises[2], Laura Ziskin Productions",
+                "description": "Spider-Man centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:11 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -423,13 +423,13 @@
         {
            "info": {
                 "title": "Spider-Man 3",
-                "author": "Test",
-                "description": "Test",
+                "author": "Columbia Pictures[1], Marvel Enterprises[2], Laura Ziskin Productions",
+                "description": "Spider-Man centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:12 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -452,13 +452,13 @@
         {
            "info": {
                 "title": "Spider-Man Into The Spider Verse",
-                "author": "Test",
-                "description": "Test",
+                "author": "Columbia Pictures[1], Marvel Enterprises[2], Laura Ziskin Productions",
+                "description": "Spider-Man centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:13 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -481,13 +481,13 @@
         {
            "info": {
                 "title": "Spider-Man Across The Spider-Verse",
-                "author": "Test",
-                "description": "Test",
+                "author": "Columbia Pictures[1], Marvel Enterprises[2], Laura Ziskin Productions",
+                "description": "Spider-Man centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:14 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -516,7 +516,7 @@
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:15 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -539,13 +539,13 @@
         {
            "info": {
                 "title": "Team Sonic Racing Overdrive",
-                "author": "Test",
-                "description": "Test",
+                "author": "Sega",
+                "description": "Team Sonic Racing Overdrive, also formatted Team Sonic Racing: Overdrive,[1] is a 2D cartoon animated series that was released for free on YouTube over the course of 2019.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:16 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -568,13 +568,13 @@
         {
            "info": {
                 "title": "The Lorax",
-                "author": "Test",
-                "description": "Test",
+                "author": "Illumination Entertainment",
+                "description": "Twelve-year-old Ted (Zac Efron) lives in a place virtually devoid of nature; no flowers or trees grow in the town of Thneedville.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:17 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -597,13 +597,13 @@
         {
            "info": {
                 "title": "The SpongeBob SquarePants Movie 2004",
-                "author": "Test",
-                "description": "Test",
+                "author": "Nickelodeon Movies, & United Plankton Pictures",
+                "description": "n this lively animated adventure, undersea oddball SpongeBob SquarePants and his starfish friend, Patrick, embark on a quest to clear the name of Mr. Krabs, the owner of the Krusty Krab restaurant, who has been framed for stealing the crown of ocean deity King Neptune.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:18 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -626,13 +626,13 @@
         {
            "info": {
                 "title": "The SpongeBob Movie Sponge out of Water 3D 2015",
-                "author": "Test",
-                "description": "Test",
+                "author": "Paramount Animation, Nickelodeon Movies, & United Plankton Pictures",
+                "description": "Life is dandy in Bikini Bottom for SpongeBob Squarepants (Tom Kenny) and his friends Patrick (Bill Fagerbakke), Squidward (Rodger Bumpass), Mr. Krabs (Clancy Brown) and Sandy (Carolyn Lawrence).",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:19 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -655,13 +655,13 @@
         {
            "info": {
                 "title": "The Super Mario Bros. Movie",
-                "author": "Test",
-                "description": "Test",
+                "author": "Universal Pictures, Illumination, & Nintendo",
+                "description": "While working underground to fix a water main, Brooklyn plumbers and brothers Mario and Luigi are transported through a mysterious pipe to a magical new world. But when the siblings are separated, an epic adventure begins.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:20 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -684,13 +684,13 @@
         {
            "info": {
                 "title": "Top Gun Maverick",
-                "author": "Test",
-                "description": "Test",
+                "author": "Paramount Pictures, Skydance, TC Productions, New Republic Pictures[1] (uncredited), & Don Simpson/Jerry Bruckheimer Films",
+                "description": "After more than 30 years of service as one of the Navy's top aviators, Pete Maverick Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:21 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -713,13 +713,13 @@
         {
            "info": {
                 "title": "Toy Story",
-                "author": "Test",
-                "description": "Test",
+                "author": "Walt Disney Pictures & Pixar Animation Studios",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:22 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -742,13 +742,13 @@
         {
            "info": {
                 "title": "Toy Story 2",
-                "author": "Test",
-                "description": "Test",
+                "author": "Walt Disney Pictures & Pixar Animation Studios",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:23 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -771,13 +771,13 @@
         {
            "info": {
                 "title": "Toy Story 3 (2010, 3D Version)",
-                "author": "Test",
-                "description": "Test",
+                "author": "Walt Disney Pictures & Pixar Animation Studios",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:24 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -800,13 +800,13 @@
         {
            "info": {
                 "title": "Toy Story 4 (2019, 3D Version)",
-                "author": "Test",
-                "description": "Test",
+                "author": "Walt Disney Pictures & Pixar Animation Studios",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:25 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -829,13 +829,13 @@
         {
            "info": {
                 "title": "Transformers Rise of the Beasts",
-                "author": "Test",
-                "description": "Test",
+                "author": "Skydance, Hasbro, New Republic Pictures, Di Bonaventura Pictures, & Bay Films",
+                "description": "Optimus Prime and the Autobots take on their biggest challenge yet. When a new threat capable of destroying the entire planet emerges, they must team up with a powerful faction of Transformers known as the Maximals to save Earth.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:26 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -858,13 +858,13 @@
         {
            "info": {
                 "title": "Wall-E",
-                "author": "Test",
-                "description": "Test",
+                "author": "Walt Disney Pictures & Pixar Animation Studios",
+                "description": "WALL-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet, one piece of garbage at a time. But during 700 years, WALL-E has developed a personality, and he's more than a little lonely.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:27 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
@@ -887,17 +887,17 @@
         {
            "info": {
                 "title": "Yo-Kai Watch - The Movie",
-                "author": "Test",
-                "description": "Test",
+                "author": "OLM, Inc.",
+                "description": "Yo-kai Watch: The Movie, released in Japan under the name Yo-kai Watch: Tanjō no Himitsu da Nyan!, is a 2014 Japanese animated fantasy adventure film.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
+                "last_updated": "2023-10-15 at 20:28 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
-            "Yo-Kai Watch - The Movie": [
+            "000400000D502B00 Yo-Kai Watch - The Movie (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
                 {
                     "type": "downloadFile",
                     "file": "http://10.0.0.159:8887/CIAS/000400000D502B00%20Yo-Kai%20Watch%20-%20The%20Movie%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
@@ -910,35 +910,6 @@
                 {
                     "type": "deleteFile",
                     "file": "sdmc:/000400000D502B00 Yo-Kai Watch - The Movie (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
-                }
-            ]
-        },
-        {
-           "info": {
-                "title": "Test",
-                "author": "Test",
-                "description": "Test",
-                "category": ["utility"],
-                "console": ["3DS"],
-                "icon_index": 0,
-                "sheet_index": 0,
-                "last_updated": "2023-10-15 at 19:45 (UTC)",
-                "license": "gpl-3.0",
-                "version": "v1.0.0"
-            },
-            "Universal-Updater.cia": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.cia",
-                    "output": "sdmc:/Universal-Updater.cia"
-                },
-                {
-                    "type": "installCia",
-                    "file": "/Universal-Updater.cia"
-                },
-                {
-                    "type": "deleteFile",
-                    "file": "sdmc:/Universal-Updater.cia"
                 }
             ]
         }
