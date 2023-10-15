@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 101,
+        "revision": 102,
         "version": 3
     },
     "storeContent": [
@@ -160,9 +160,9 @@
         },
         {
             "info": {
-                "title": "Astro Boy",
-                "author": "Auth Here",
-                "description": "description here",
+                "title": "Spongebob 4-D",
+                "author": "Nickelodeon",
+                "description": "Patrick stole a pickle from Spongebob, but that's not the real Patrick, that's Robot Patrick. A robot that Plankton made to steal the secret formula. Then, Spongebob saves the day.",
                 "category": ["Homebrew"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -171,19 +171,19 @@
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
-            "Astro Boy.cia": [
+            "Spongebob 4-D Ride [000400000C45E200].cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Astro Boy.cia",
-                    "output": "sdmc:/Astro Boy.cia"
+                    "file": "http://10.0.0.159:8887/CIAS/Spongebob%20Squarepants%204-D%20Ride%20%5B000400000C45E200%5D.cia",
+                    "output": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
                 },
                 {
                     "type": "installCia",
-                    "file": "/Astro Boy.cia"
+                    "file": "/Spongebob 4-D Ride [000400000C45E200].cia"
                 },
                 {
                     "type": "deleteFile",
-                    "file": "sdmc:/Astro Boy.cia"
+                    "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
         },
         {
             "info": {
