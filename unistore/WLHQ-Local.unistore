@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 116,
+        "revision": 117,
         "version": 3
     },
     "storeContent": [
@@ -714,7 +714,7 @@
            "info": {
                 "title": "Toy Story",
                 "author": "Walt Disney Pictures & Pixar Animation Studios",
-                "description": "Taking place in a world where toys come to life when humans are not present, the plot of Toy Story focuses on the relationship between an old-fashioned pull-string cowboy doll named Woody and a modern space cadet action figure, Buzz Lightyear, as Woody develops jealousy towards Buzz when he becomes their owner Andy's favorite toy.",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -743,7 +743,7 @@
            "info": {
                 "title": "Toy Story 2",
                 "author": "Walt Disney Pictures & Pixar Animation Studios",
-                "description": "Taking place in a world where toys come to life when humans are not present, the plot of Toy Story focuses on the relationship between an old-fashioned pull-string cowboy doll named Woody and a modern space cadet action figure, Buzz Lightyear, as Woody develops jealousy towards Buzz when he becomes their owner Andy's favorite toy.",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -772,7 +772,7 @@
            "info": {
                 "title": "Toy Story 3 (2010, 3D Version)",
                 "author": "Walt Disney Pictures & Pixar Animation Studios",
-                "description": "Taking place in a world where toys come to life when humans are not present, the plot of Toy Story focuses on the relationship between an old-fashioned pull-string cowboy doll named Woody and a modern space cadet action figure, Buzz Lightyear, as Woody develops jealousy towards Buzz when he becomes their owner Andy's favorite toy.",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -801,7 +801,7 @@
            "info": {
                 "title": "Toy Story 4 (2019, 3D Version)",
                 "author": "Walt Disney Pictures & Pixar Animation Studios",
-                "description": "Taking place in a world where toys come to life when humans are not present, the plot of Toy Story focuses on the relationship between an old-fashioned pull-string cowboy doll named Woody and a modern space cadet action figure, Buzz Lightyear, as Woody develops jealousy towards Buzz when he becomes their owner Andy's favorite toy.",
+                "description": "Taking place in a world where toys come to life when humans are not present.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -888,7 +888,7 @@
            "info": {
                 "title": "Yo-Kai Watch - The Movie",
                 "author": "OLM, Inc.",
-                "description": "Yo-kai Watch: The Movie, released in Japan under the name Yo-kai Watch: Tanjō no Himitsu da Nyan!, is a 2014 Japanese animated fantasy adventure film directed by Shigeharu Takahashi and Shinji Ushiro as part of the Yo-kai Watch franchise. The film was released on December 20, 2014 in Japan.",
+                "description": "Yo-kai Watch: The Movie, released in Japan under the name Yo-kai Watch: Tanjō no Himitsu da Nyan!, is a 2014 Japanese animated fantasy adventure film.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
