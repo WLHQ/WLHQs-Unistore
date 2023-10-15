@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 116,
+        "revision": 118,
         "version": 3
     },
     "storeContent": [
@@ -897,7 +897,7 @@
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
-            "000400000D502B00 Yo-Kai Watch - The Movie (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+            "Yo-Kai Watch - The Movie": [
                 {
                     "type": "downloadFile",
                     "file": "http://10.0.0.159:8887/CIAS/000400000D502B00%20Yo-Kai%20Watch%20-%20The%20Movie%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
