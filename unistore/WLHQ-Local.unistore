@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 118,
+        "revision": 119,
         "version": 3
     },
     "storeContent": [
@@ -465,7 +465,7 @@
             "Spider-Man Into The Spider Verse [000400000CE01A00].cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Spider-Man%20Into%20The%20Spider%20Verse%20%5B000400000CE01A00%5D.cia,
+                    "file": "http://10.0.0.159:8887/CIAS/Spider-Man%20Into%20The%20Spider%20Verse%20%5B000400000CE01A00%5D.cia",
                     "output": "sdmc:/Spider-Man Into The Spider Verse [000400000CE01A00].cia"
                 },
                 {
