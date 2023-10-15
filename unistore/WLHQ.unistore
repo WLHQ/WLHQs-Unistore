@@ -9,7 +9,7 @@
         "sheet": "WLHQ.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 94,
+        "revision": 95,
         "version": 3
     },
     "storeContent": [
@@ -88,7 +88,7 @@
             "Spongebob 4-D Ride [000400000C45E200].cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.240:8083/Spongebob 4-D Ride [000400000C45E200].cia",
+                    "file": "https://www.icloud.com/iclouddrive/020ENVMLiWEqT0pLql8kkTiPg#Spongebob_Squarepants_4-D_Ride_%5B000400000C45E200%5D",
                     "output": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
                 },
                 {
