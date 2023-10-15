@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 103,
+        "revision": 104,
         "version": 3
     },
     "storeContent": [
@@ -160,30 +160,34 @@
         },
         {
             "info": {
-                "title": "Spongebob 4-D",
-                "author": "Nickelodeon",
-                "description": "Patrick stole a pickle from Spongebob, but that's not the real Patrick, that's Robot Patrick. A robot that Plankton made to steal the secret formula. Then, Spongebob saves the day.",
+                "title": "Astro Boy",
+                "author": "Auth here",
+                "description": "description here",
                 "category": ["Homebrew"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2023-10-14 at 14:03 (UTC)",
+                "last_updated": "2020-07-02 at 14:03 (UTC)",
                 "license": "gpl-3.0",
-                "version": "v1.0.0"
+                "version": "v2.5.1"
             },
-            "Spongebob 4-D Ride [000400000C45E200].cia": [
+            "Astro Boy.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Spongebob%20Squarepants%204-D%20Ride%20%5B000400000C45E200%5D.cia",
-                    "output": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
+                    "file": "http://10.0.0.159:8887/CIAS/Astro%20Boy.cia",
+                    "output": "sdmc:/Astro Boy.cia"
                 },
                 {
                     "type": "installCia",
-                    "file": "/Spongebob 4-D Ride [000400000C45E200].cia"
+                    "file": "/Astro Boy.cia"
                 },
                 {
                     "type": "deleteFile",
-                    "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
+                    "file": "sdmc:/Astro Boy.cia"
+                }
+            ],
+                }
+            ]
         },
         {
             "info": {
@@ -944,4 +948,4 @@
             ]
         }
     ]
-}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}
+}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}
