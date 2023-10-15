@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 102,
+        "revision": 103,
         "version": 3
     },
     "storeContent": [
@@ -201,7 +201,7 @@
             "Astro Boy.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Astro Boy.cia",
+                    "file": "http://10.0.0.159:8887/CIAS/Astro%20Boy.cia",
                     "output": "sdmc:/Astro Boy.cia"
                 },
                 {
