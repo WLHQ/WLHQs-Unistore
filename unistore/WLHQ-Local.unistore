@@ -1,8 +1,8 @@
 {
     "storeInfo": {
-        "title": "WLHQ's Store Local",
+        "title": "WLHQ",
         "author": "WLHQ",
-        "description": "Welcome to WLHQ's UniStore! This unistore is only accessible on the LAN Network & when the server is online.",
+        "description": "Test",
         "url": "http://10.0.0.159:8887/unistore/WLHQ-Local.unistore",
         "file": "WLHQ-Local.unistore",
         "sheetURL": "http://10.0.0.159:8887/unistore/WLHQ-Local.t3x",
@@ -26,6 +26,13 @@
                 "license": "gpl-3.0",
                 "version": "v2.5.1"
             },
+            "Universal-Updater.3dsx": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.3dsx",
+                    "output": "%3DSX%/Universal-Updater.3dsx"
+                }
+            ],
             "Universal-Updater.cia": [
                 {
                     "type": "downloadFile",
@@ -41,64 +48,29 @@
                     "file": "sdmc:/Universal-Updater.cia"
                 }
             ],
-        },
-        {
-            "info": {
-                "title": "Astro Boy",
-                "author": "WLHQ",
-                "description": "Test",
-                "category": ["homebrew"],
-                "console": ["3DS"],
-                "icon_index": 0,
-                "sheet_index": 0,
-                "last_updated": "2020-07-02 at 14:03 (UTC)",
-                "license": "gpl-3.0",
-                "version": "v2.5.1"
-            },
-            "Astro Boy.cia": [
+            "[nightly] Universal-Updater.3dsx": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Astro%20Boy.cia",
-                    "output": "sdmc:/Astro Boy.cia"
+                    "file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.3dsx",
+                    "message": "Downloading Universal-Updater.3dsx...",
+                    "output": "%3DSX%/Universal-Updater.3dsx"
+                }
+            ],
+            "[nightly] Universal-Updater.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.cia",
+                    "output": "sdmc:/Universal-Updater.cia"
                 },
                 {
                     "type": "installCia",
-                    "file": "/Astro Boy.cia"
+                    "file": "/Universal-Updater.cia"
                 },
                 {
                     "type": "deleteFile",
-                    "file": "sdmc:/Astro Boy.cia"
+                    "file": "sdmc:/Universal-Updater.cia"
                 }
-            ],
-        },
-        {
-            "info": {
-                "title": "Bee Movie",
-                "author": "WLHQ",
-                "description": "Test",
-                "category": ["homebrew"],
-                "console": ["3DS"],
-                "icon_index": 0,
-                "sheet_index": 0,
-                "last_updated": "2020-07-02 at 14:03 (UTC)",
-                "license": "gpl-3.0",
-                "version": "v2.5.1"
-            },
-            "Bee Movie [000400000E1A3700].cia": [
-                {
-                    "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Bee%20Movie%20%5B000400000E1A3700%5D.cia",
-                    "output": "sdmc:/Bee Movie [000400000E1A3700].cia"
-                },
-                {
-                    "type": "installCia",
-                    "file": "/Bee Movie [000400000E1A3700].cia"
-                },
-                {
-                    "type": "deleteFile",
-                    "file": "sdmc:/Bee Movie [000400000E1A3700].cia"
-                }
-            ],
+            ]
         }
     ]
 }
