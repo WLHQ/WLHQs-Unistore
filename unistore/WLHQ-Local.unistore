@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 105,
+        "revision": 106,
         "version": 3
     },
     "storeContent": [
@@ -45,8 +45,8 @@
         {
             "info": {
                 "title": "Astro Boy",
-                "author": "",
-                "description": "",
+                "author": "WLHQ",
+                "description": "Test",
                 "category": ["homebrew"],
                 "console": ["3DS"],
                 "icon_index": 0,
@@ -74,8 +74,8 @@
         {
             "info": {
                 "title": "Bee Movie",
-                "author": "",
-                "description": "",
+                "author": "WLHQ",
+                "description": "Test",
                 "category": ["homebrew"],
                 "console": ["3DS"],
                 "icon_index": 0,
