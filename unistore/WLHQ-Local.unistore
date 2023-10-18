@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 121,
+        "revision": 122,
         "version": 3
     },
     "storeContent": [
@@ -1089,30 +1089,349 @@
         },
         {
            "info": {
-                "title": "Coming Soon!",
-                "author": "",
-                "description": "More movies are on the way! Check back soon for more!",
+                "title": "Avenger Endgame 2019",
+                "author": "Marvel",
+                "description": "AVENGERS: ENDGAME is set after Thanos catastrophic use of the Infinity Stones randomly wiped out half of Earth's population in Avengers: Infinity War. Those left behind are desperate to do something anything to bring back their lost loved ones.",
                 "category": ["Movies"],
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2019-10-15 at 20:40 (UTC)",
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
-            ".cia": [
+            "000400000C7A5600 Avengers Endgame(2019) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/",
-                    "output": "sdmc:/"
+                    "file": "http://10.0.0.159:8887/CIAS/000400000C7A5600%20Avengers%20Endgame(2019)%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000C7A5600 Avengers Endgame(2019) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 },
                 {
                     "type": "installCia",
-                    "file": "/"
+                    "file": "/000400000C7A5600 Avengers Endgame(2019) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 },
                 {
                     "type": "deleteFile",
-                    "file": "sdmc:/"
+                    "file": "sdmc:/000400000C7A5600 Avengers Endgame(2019) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "The Lego Movie",
+                "author": "WB",
+                "description": "Emmet, an ordinary LEGO figurine who always follows the rules, is mistakenly identified as the Special an extraordinary being and the key to saving the world.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000C694200 The Lego Movie (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000C694200%20The%20Lego%20Movie%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000C694200 The Lego Movie (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000C694200 The Lego Movie (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000C694200 The Lego Movie (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "The Lego Movie 2",
+                "author": "WB",
+                "description": "The citizens of Bricksburg face a dangerous new threat when LEGO DUPLO invaders from outer space start to wreck everything in their path.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000C331B00 The Lego Movie 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000C331B00%20The%20Lego%20Movie%202%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000C331B00 The Lego Movie 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000C331B00 The Lego Movie 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000C331B00 The Lego Movie 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "The Polar Express",
+                "author": "WB",
+                "description": "The Polar Express is a 2004 American computer-animated Christmas musical fantasy film directed by Robert Zemeckis, who co-wrote the screenplay with William Broyles Jr., based on the 1985 children's book of the same name by Chris Van Allsburg.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000E813D00 The Polar Express(2004) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000E813D00%20The%20Polar%20Express(2004)%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000E813D00 The Polar Express(2004) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000E813D00 The Polar Express(2004) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000E813D00 The Polar Express(2004) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "I-Robot",
+                "author": "",
+                "description": "In 2035, highly intelligent robots fill public service positions throughout the world, operating under three rules to keep humans safe.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000E9D5100 I, Robot (3D) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000E9D5100%20I%2C%20Robot%20(3D)%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000E9D5100 I, Robot (3D) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000E9D5100 I, Robot (3D) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000E9D5100 I, Robot (3D) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "Morbious",
+                "author": "",
+                "description": "Dangerously ill with a rare blood disorder and determined to save others from the same fate, Dr. Morbius attempts a desperate gamble. While at first it seems to be a radical success, a darkness inside of him is soon unleashed.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000E2CE100 Morbius (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000E2CE100%20Morbius%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000E2CE100 Morbius (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000E2CE100 Morbius (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000E2CE100 Morbius (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "Dispicable Me",
+                "author": "Illumination",
+                "description": "Longtime supervillain Gru formulates a plan to steal the Moon. Meanwhile, he starts a family by adopting three orphan girls, and must decide where his commitments lie.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000CEB3B00 Despicable Me (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000CEB3B00%20Despicable%20Me%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000CEB3B00 Despicable Me (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000CEB3B00 Despicable Me (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000CEB3B00 Despicable Me (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "Dispicable Me 2",
+                "author": "Illumination",
+                "description": "Gru is recruited by agent Lucy Wilde, who is investigating a theft of the mutagen called PX-41, stolen from the Arctic Circle. During their investigations, they extract Eduardo Pérez / El Macho, a supervillain with the goal of causing world domination after faking his death.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000D162800 Despicable Me 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000D162800%20Despicable%20Me%202%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000D162800 Despicable Me 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000D162800 Despicable Me 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000D162800 Despicable Me 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "Dispicable Me 3",
+                "author": "Illumination",
+                "description": "Gru teams up with his long-lost twin brother Dru to stop Balthazar Bratt, a former child actor of the 1980s, from destroying Hollywood, Los Angeles, after his show is canceled.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000D68A200 Despicable Me 3 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000D68A200%20Despicable%20Me%203%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000D68A200 Despicable Me 3 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000D68A200 Despicable Me 3 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000D68A200 Despicable Me 3 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "Minions",
+                "author": "Illumination",
+                "description": "Evolving from single-celled yellow organisms at the dawn of time, Minions live to serve, but find themselves working for a continual series of unsuccessful masters, from T. Rex to Napoleon. Without a master to grovel for, the Minions fall into a deep depression.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000C8DF800 Minions (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000C8DF800%20Minions%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000C8DF800 Minions (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000C8DF800 Minions (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000C8DF800 Minions (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "Minions The Rise of Gru",
+                "author": "Illumination",
+                "description": "In the 1970s, young Gru tries to join a group of supervillains called the Vicious 6 after they oust their leader the legendary fighter Wild Knuckles. When the interview turns disastrous, Gru and his Minions go on the run with the Vicious 6 hot on their tails.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000DEB7200 Minions - The Rise of Gru (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000DEB7200%20Minions%20-%20The%20Rise%20of%20Gru%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000DEB7200 Minions - The Rise of Gru (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000DEB7200 Minions - The Rise of Gru (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000DEB7200 Minions - The Rise of Gru (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                }
+            ]
+        },
+        {
+           "info": {
+                "title": "The Bad Guys",
+                "author": "DreamWorks Animation Studios",
+                "description": "After a lifetime of legendary heists, notorious criminals Mr. Wolf, Mr. Snake, Mr. Piranha, Mr. Shark and Ms. Tarantula are finally caught. To avoid a prison sentence, the animal outlaws must pull off their most challenging con yet becoming model citizens.",
+                "category": ["Movies"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-15 at 20:40 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "000400000CA0B300 The Bad Guys (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "http://10.0.0.159:8887/CIAS/000400000CA0B300%20The%20Bad%20Guys%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000CA0B300 The Bad Guys (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/000400000CA0B300 The Bad Guys (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/000400000CA0B300 The Bad Guys (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 }
             ]
         }
