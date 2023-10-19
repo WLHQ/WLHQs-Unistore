@@ -9,7 +9,7 @@
         "sheet": "WLHQ-Local.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 122,
+        "revision": 123,
         "version": 3
     },
     "storeContent": [
@@ -926,19 +926,19 @@
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
-            "Sonic the Hedgehog 3D [000400000EBAA400].cia": [
+            "000400000EA0FB00 Sonic The Hedgehog (2020) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Sonic%20the%20Hedgehog%203D%20%5B000400000EBAA400%5D.cia",
-                    "output": "sdmc:/Sonic the Hedgehog 3D [000400000EBAA400].cia"
+                    "file": "http://10.0.0.159:8887/CIAS/000400000EA0FB00%20Sonic%20The%20Hedgehog%20(2020)%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000EA0FB00 Sonic The Hedgehog (2020) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 },
                 {
                     "type": "installCia",
-                    "file": "/Sonic the Hedgehog 3D [000400000EBAA400].cia"
+                    "file": "/000400000EA0FB00 Sonic The Hedgehog (2020) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 },
                 {
                     "type": "deleteFile",
-                    "file": "sdmc:/Sonic the Hedgehog 3D [000400000EBAA400].cia"
+                    "file": "sdmc:/000400000EA0FB00 Sonic The Hedgehog (2020) (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 }
             ]
         },
@@ -955,19 +955,19 @@
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
-            "Sonic the Hedgehog 2 3D [000400000E779F00].cia": [
+            "000400000CAE1000 Sonic the Hedgehog 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "http://10.0.0.159:8887/CIAS/Sonic%20the%20Hedgehog%202%203D%20%5B000400000E779F00%5D.cia",
-                    "output": "sdmc:/Sonic the Hedgehog 2 3D [000400000E779F00].cia"
+                    "file": "http://10.0.0.159:8887/CIAS/000400000CAE1000%20Sonic%20the%20Hedgehog%202%20(CTR-H-VDIJ)%20(W)%20(v0.0.0).standard.cia",
+                    "output": "sdmc:/000400000CAE1000 Sonic the Hedgehog 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 },
                 {
                     "type": "installCia",
-                    "file": "/Sonic the Hedgehog 2 3D [000400000E779F00].cia"
+                    "file": "/000400000CAE1000 Sonic the Hedgehog 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 },
                 {
                     "type": "deleteFile",
-                    "file": "sdmc:/Sonic the Hedgehog 2 3D [000400000E779F00].cia"
+                    "file": "sdmc:/000400000CAE1000 Sonic the Hedgehog 2 (CTR-H-VDIJ) (W) (v0.0.0).standard.cia"
                 }
             ]
         },
