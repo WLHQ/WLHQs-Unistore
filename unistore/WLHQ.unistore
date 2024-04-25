@@ -3,9 +3,9 @@
         "title": "WLHQ's Store",
         "author": "WLHQ",
         "description": "WLHQ's UniStore. Check out the homebrew apps I have!",
-        "url": "https://raw.githubusercontent.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.unistore",
+        "url": "https://github.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.unistore",
         "file": "WLHQ.unistore",
-        "sheetURL": "https://raw.githubusercontent.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.t3x",
+        "sheetURL": "https://github.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.t3x",
         "sheet": "WLHQ.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
@@ -88,7 +88,7 @@
             "3ds-httpd.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "https://raw.githubusercontent.com/WLHQ/WLHQs-Unistore/main/unistore/content/3ds-httpd.cia",
+                    "file": "https://github.com/WLHQ/WLHQs-Unistore/main/unistore/content/3ds-httpd.cia",
                     "output": "sdmc:/3ds-httpd.cia"
                 },
                 {
