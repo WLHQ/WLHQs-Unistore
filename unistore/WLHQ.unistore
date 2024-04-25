@@ -9,7 +9,7 @@
         "sheet": "WLHQ.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 96,
+        "revision": 97,
         "version": 3
     },
     "storeContent": [
@@ -88,7 +88,7 @@
             "3ds-httpd.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "https://github.com/WLHQ/WLHQs-Unistore/main/unistore/content/3ds-httpd.cia",
+                    "file": "https://github.com/WLHQ/WLHQs-Unistore/raw/main/unistore/content/3ds-httpd.cia",
                     "output": "sdmc:/3ds-httpd.cia"
                 },
                 {
