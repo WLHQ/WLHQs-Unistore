@@ -1,0 +1,105 @@
+{
+    "storeInfo": {
+        "title": "WLHQ's Store",
+        "author": "WLHQ",
+        "description": "WLHQ's UniStore ( Test )",
+        "url": "https://raw.githubusercontent.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.unistore",
+        "file": "WLHQ.unistore",
+        "sheetURL": "https://raw.githubusercontent.com/WLHQ/WLHQs-Unistore/main/unistore/WLHQ.t3x",
+        "sheet": "WLHQ.t3x",
+        "bg_index": 1,
+        "bg_sheet": 0,
+        "revision": 95,
+        "version": 3
+    },
+    "storeContent": [
+        {
+            "info": {
+                "title": "Universal-Updater",
+                "author": "Universal-Team",
+                "description": "An easy to use app for installing and updating 3DS homebrew",
+                "category": ["utility"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2020-07-02 at 14:03 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v2.5.1"
+            },
+            "Universal-Updater.3dsx": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.3dsx",
+                    "output": "%3DSX%/Universal-Updater.3dsx"
+                }
+            ],
+            "Universal-Updater.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.cia",
+                    "output": "sdmc:/Universal-Updater.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/Universal-Updater.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/Universal-Updater.cia"
+                }
+            ],
+            "[nightly] Universal-Updater.3dsx": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.3dsx",
+                    "message": "Downloading Universal-Updater.3dsx...",
+                    "output": "%3DSX%/Universal-Updater.3dsx"
+                }
+            ],
+            "[nightly] Universal-Updater.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.cia",
+                    "output": "sdmc:/Universal-Updater.cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/Universal-Updater.cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/Universal-Updater.cia"
+                }
+            ]
+        },
+        {
+            "info": {
+                "title": "Spongebob 4-D",
+                "author": "Nickaloadeon",
+                "description": "Patrick stole a pickle from Spongebob, but that's not the real Patrick, that's Robot Patrick. A robot that Plankton made to steal the secret formula. Then, Spongebob saves the day.",
+                "category": ["Homebrew"],
+                "console": ["3DS"],
+                "icon_index": 0,
+                "sheet_index": 0,
+                "last_updated": "2023-10-14 at 14:03 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0.0"
+            },
+            "Spongebob 4-D Ride [000400000C45E200].cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://www.icloud.com/iclouddrive/020ENVMLiWEqT0pLql8kkTiPg#Spongebob_Squarepants_4-D_Ride_%5B000400000C45E200%5D",
+                    "output": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
+                },
+                {
+                    "type": "installCia",
+                    "file": "/Spongebob 4-D Ride [000400000C45E200].cia"
+                },
+                {
+                    "type": "deleteFile",
+                    "file": "sdmc:/Spongebob 4-D Ride [000400000C45E200].cia"
+                }
+            ]
+        }
+    ]
+}
