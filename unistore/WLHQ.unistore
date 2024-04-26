@@ -9,7 +9,7 @@
         "sheet": "WLHQ.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 109,
+        "revision": 110,
         "version": 3
     },
     "storeContent": [
@@ -85,7 +85,7 @@
                 "license": "gpl-3.0",
                 "version": "v1.0.0"
             },
-            "3DWEB.cia": [
+            "3DWEB": [
                 {
                     "type": "downloadFile",
                     "file": "https://github.com/WLHQ/3DWEB/releases/download/v1.0.0/3DWEB.cia",
