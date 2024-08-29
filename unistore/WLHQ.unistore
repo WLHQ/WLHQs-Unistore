@@ -9,7 +9,7 @@
         "sheet": "WLHQ.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 111,
+        "revision": 112,
         "version": 3
     },
     "storeContent": [
@@ -81,14 +81,14 @@
                 "console": ["3DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "last_updated": "2024-04-26 at 4:40 (UTC)",
+                "last_updated": "2024-08-30 at 4:29 (UTC)",
                 "license": "gpl-3.0",
-                "version": "v1.0.0"
+                "version": "v1.0.1"
             },
             "3DWEB.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "https://github.com/WLHQ/3DWEB/releases/download/v1.0.0/3DWEB.cia",
+                    "file": "https://github.com/WLHQ/3DWEB/releases/download/v1.0.1/3DWEB.cia",
                     "output": "sdmc:/3DWEB.cia"
                 },
                 {
